@@ -16,7 +16,7 @@
 
 💬 Ask me about **JavaScript, Html, Css... or anything [here]([(https://github.com/Shahina-Sk)))**
 
-⚡ Fun fact **Did you know? I can solve a Rubik's cube in under 2 minutes! It's not just about algorithms - it's about seeing patterns and solving problems quickly, skills I bring to my coding every day.**
+⚡ Fun fact **Did you know? I can solve a Rubik's cube in under 2 minutes! It's not just about algorithms - it's about seeing patterns with solving problems quickly, skills I bring to my coding every day.**
 
  </div>
  
